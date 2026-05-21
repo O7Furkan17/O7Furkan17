@@ -1,6 +1,6 @@
 <div align="center">
 
-# Furkan Küçük
+# Osman Furkan Küçük
 
 **AI Engineer · Agentic RAG & LLM Systems**
 
