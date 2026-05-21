@@ -200,7 +200,7 @@
     <text class="tech-inner">LoRA         <animateMotion dur="16s" repeatCount="indefinite" rotate="0" begin="-14s" ><mpath href="#orbit-inner"/></animateMotion></text>
   </g>
 
-  <!-- ORBIT 2 · MIDDLE · AGENTS & DATA   (25s, CCW, 10 items · spacing=2.5s) -->
+  <!-- ORBIT 2 · MIDDLE · AGENTS + DATA   (25s, CCW, 10 items · spacing=2.5s) -->
   <g>
     <text class="tech-mid">LangGraph <animateMotion dur="25s" repeatCount="indefinite" rotate="0" begin="0s"    ><mpath href="#orbit-mid"/></animateMotion></text>
     <text class="tech-mid">MCP       <animateMotion dur="25s" repeatCount="indefinite" rotate="0" begin="-2.5s" ><mpath href="#orbit-mid"/></animateMotion></text>
@@ -214,7 +214,7 @@
     <text class="tech-mid">RabbitMQ  <animateMotion dur="25s" repeatCount="indefinite" rotate="0" begin="-22.5s"><mpath href="#orbit-mid"/></animateMotion></text>
   </g>
 
-  <!-- ORBIT 3 · OUTER · INFRA & TOOLING   (36s, CW, 9 items · spacing=4s) -->
+  <!-- ORBIT 3 · OUTER · INFRA + TOOLING   (36s, CW, 9 items · spacing=4s) -->
   <g>
     <text class="tech-outer">Docker     <animateMotion dur="36s" repeatCount="indefinite" rotate="0" begin="0s"   ><mpath href="#orbit-outer"/></animateMotion></text>
     <text class="tech-outer">Linux      <animateMotion dur="36s" repeatCount="indefinite" rotate="0" begin="-4s"  ><mpath href="#orbit-outer"/></animateMotion></text>

@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Furkan%20Küçük&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Agentic%20RAG%20%26%20LLM%20Systems&descAlignY=60&descSize=18" width="100%" />
+# Furkan Küçük
 
-<a href="https://github.com/O7Furkan17">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+agentic+systems+with+LLMs;Retrieval+%C2%B7+tool-use+%C2%B7+reasoning+routing;Self-hosted+inference+%C2%B7+vLLM+%C2%B7+Unsloth;Where+research+meets+production+inference" alt="Typing SVG" />
-</a>
+**AI Engineer · Agentic RAG & LLM Systems**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+agentic+systems+with+LLMs;Retrieval+%C2%B7+tool-use+%C2%B7+reasoning+routing;Self-hosted+inference+%C2%B7+vLLM+%C2%B7+Unsloth;Where+research+meets+production+inference" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Agents-0a0a0a?style=for-the-badge&logo=langchain&logoColor=58A6FF&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-RAG-0a0a0a?style=for-the-badge&logo=databricks&logoColor=58A6FF&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-NL2SQL-0a0a0a?style=for-the-badge&logo=oracle&logoColor=58A6FF&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-Fine--tuning-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=58A6FF&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-Self--hosted-0a0a0a?style=for-the-badge&logo=docker&logoColor=58A6FF&labelColor=0a0a0a" />
+[![Agents](https://img.shields.io/badge/Agents-0a0a0a?style=for-the-badge&logo=langchain&logoColor=58A6FF&labelColor=0a0a0a)](https://github.com/O7Furkan17)
+[![RAG](https://img.shields.io/badge/RAG-0a0a0a?style=for-the-badge&logo=databricks&logoColor=58A6FF&labelColor=0a0a0a)](https://github.com/O7Furkan17)
+[![NL2SQL](https://img.shields.io/badge/NL2SQL-0a0a0a?style=for-the-badge&logo=oracle&logoColor=58A6FF&labelColor=0a0a0a)](https://github.com/O7Furkan17)
+[![Fine-tuning](https://img.shields.io/badge/Fine--tuning-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=58A6FF&labelColor=0a0a0a)](https://github.com/O7Furkan17)
+[![Self-hosted](https://img.shields.io/badge/Self--hosted-0a0a0a?style=for-the-badge&logo=docker&logoColor=58A6FF&labelColor=0a0a0a)](https://github.com/O7Furkan17)
 
 </div>
 
@@ -21,10 +21,10 @@
 ```yaml
 > whoami
 role:        AI Engineer
-focus:       agentic orchestration · retrieval · self-hosted LLM inference
-working_on:  domain-grounded assistants, NL→SQL agents, MCP-driven workflows
-exploring:   structured generation, evaluation pipelines, reasoning routing
-ethos:       "ship reliable inference, not impressive demos"
+focus:       agentic orchestrations · self-hosted LLM infrastructure · applied ML · R&D
+working_on:  domain-grounded assistants, NL→SQL agents, MCP-driven workflows, healthcare AI systems
+exploring:   evaluation pipelines, reasoning routing, edge-efficient intelligence
+ethos:       "AI is not about models, it is about the systems they make possible"
 ```
 
 <br/>
@@ -176,8 +176,8 @@ Cross-paradigm experimentation across domains.<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+---
 
-<sub><code>while not asleep: build( ai )</code></sub>
+`while not asleep: build( ai )`
 
 </div>
